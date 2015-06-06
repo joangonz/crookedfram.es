@@ -15,6 +15,39 @@
     a {
 
     }
+
+    /**
+    * Social Colors
+    */
+    .medium {
+        background-color: #333332;
+        /*background-image:url('http://i59.tinypic.com/2h64jts.png');*/
+    }
+
+     .dribbble {
+        background-color: #E84F89;
+        /*background-image:url('http://i57.tinypic.com/vzhatc.png');*/
+    }
+
+    .twitter {
+        background-color: #59ADEC;
+        /*background-image:url('http://i61.tinypic.com/339hapt.png');*/
+    }
+
+     .instagram {
+        background-color: #2D5C81;
+        /*background-image:url('http://i57.tinypic.com/2v2762a.png');*/
+    }
+
+    /**
+    * End of Social Colors
+    */
+
+
+
+    /**
+    * Site styles
+    */
     
     .siteContainer {
         max-width: 1000px;
@@ -49,10 +82,9 @@
 
     .bodyPortfolio {
         width: 100%;
-        
-        
     }
     
+
     .bodyPortfolio .portfolioItem {
         display: inline-block;
           float: left;
@@ -67,6 +99,12 @@
           background-repeat: no-repeat;
     }
     
+.portfolioItem.active{
+
+background-color: transparent;
+
+}
+
     .portfolioItem .fa {
       margin: auto;
       width: 100%;
@@ -78,24 +116,5 @@
       
     }
     
-    .medium {
-        background-color: #333332;
-        /*background-image:url('http://i59.tinypic.com/2h64jts.png');*/
-    }
-
-     .dribbble {
-        background-color: #E84F89;
-        /*background-image:url('http://i57.tinypic.com/vzhatc.png');*/
-    }
-
-    .twitter {
-        background-color: #59ADEC;
-        /*background-image:url('http://i61.tinypic.com/339hapt.png');*/
-    }
-
-     .instagram {
-        background-color: #2D5C81;
-        /*background-image:url('http://i57.tinypic.com/2v2762a.png');*/
-    }
     
 
