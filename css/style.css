@@ -1,0 +1,94 @@
+    html {
+        background-color: #ffffff;
+        color: black;
+        font: 100%/1.5 Avenir, Arial;
+       
+        -webkit-font-smoothing: antialiased;
+        
+          -webkit-transition: background-color 300ms linear;
+          -moz-transition: background-color 300ms linear;
+          -o-transition: background-color 300ms linear;
+          -ms-transition: background-color 300ms linear;
+          transition: background-color 300ms linear;
+    }
+
+    a {
+
+    }
+    
+    .siteContainer {
+        max-width: 1000px;
+        padding: 1rem 0;
+    }
+
+    .siteHeader {
+        
+    }
+
+    .siteHeader-title {
+        background-color: none;
+    }
+    
+    .siteHeader-title img {
+        
+        height: 100px;
+        width: 100px;
+    }
+    
+    .siteHeader-description {
+        font-style: normal;
+  
+    }
+    
+    .bodyPortfolio {
+        width: 100%;
+        
+        
+    }
+    
+    .bodyPortfolio .portfolioItem {
+        display: inline-block;
+          float: left;
+          margin-top: 0px;
+          margin-right: 25px;
+          margin-bottom: 25px;
+          margin-left: 25px;
+          width: 200px;
+          height: 200px;
+          background-position: center;
+          background-size: 50%;
+          background-repeat: no-repeat;
+    }
+    
+    .portfolioItem .fa {
+      margin: auto;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      margin-top: 65px;
+      font-size: 80px;
+      color: #ffffff;
+      
+    }
+    
+    .medium {
+        background-color: #333332;
+        /*background-image:url('http://i59.tinypic.com/2h64jts.png');*/
+    }
+
+     .dribbble {
+        background-color: #E84F89;
+        /*background-image:url('http://i57.tinypic.com/vzhatc.png');*/
+    }
+
+    .twitter {
+        background-color: #59ADEC;
+        /*background-image:url('http://i61.tinypic.com/339hapt.png');*/
+    }
+
+     .instagram {
+        background-color: #2D5C81;
+        /*background-image:url('http://i57.tinypic.com/2v2762a.png');*/
+    }
+    
+
