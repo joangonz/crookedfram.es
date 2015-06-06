@@ -40,6 +40,13 @@
   
     }
     
+    .siteHeader-description.active {
+
+        color: white;
+
+    }
+
+
     .bodyPortfolio {
         width: 100%;
         

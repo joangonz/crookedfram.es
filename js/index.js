@@ -3,30 +3,41 @@
             
             $('.portfolioItem.medium').hover(function () {
                 $('html').addClass('medium');
+                $('.siteHeader-description').addClass('active');
                 
             }, function () {
                 $('html').removeClass('medium');
-                
+                $('.siteHeader-description').removeClass('active');
             });
             
+
+
             $('.portfolioItem.dribbble').hover(function () {
                 $('html').addClass('dribbble');
-               
+                $('.siteHeader-description').addClass('active');
             }, function () {
                 $('html').removeClass('dribbble');
-                
+                $('.siteHeader-description').removeClass('active');
             });
             
+
+
             $('.portfolioItem.twitter').hover(function () {
                 $('html').addClass('twitter');
+                $('.siteHeader-description').addClass('active');
             }, function () {
                 $('html').removeClass('twitter');
+                $('.siteHeader-description').removeClass('active');
             });
             
+
+
             $('.portfolioItem.instagram').hover(function () {
                 $('html').addClass('instagram');
+                $('.siteHeader-description').addClass('active');
             }, function () {
                 $('html').removeClass('instagram');
+                $('.siteHeader-description').removeClass('active');
             });
             
             
