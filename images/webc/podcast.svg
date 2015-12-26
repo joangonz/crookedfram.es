@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD-Copy" sketch:type="MSArtboardGroup" transform="translate(-302.000000, -479.000000)" fill="#AD4DE0">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(100.000000, 462.000000)">
+                <g transform="translate(231.698485, 29.698485) rotate(-45.000000) translate(-231.698485, -29.698485) translate(210.698485, 8.698485)" sketch:type="MSShapeGroup">
+                    <circle id="Oval" cx="6" cy="36" r="6"></circle>
+                    <path d="M42,42 L34,42 C34,23.25195 18.74805,8 0,8 L0,0 C23.1582,0 42,18.84082 42,42 L42,42 Z" id="Shape"></path>
+                    <path d="M28,42 L20,42 C20,30.97168 11.02734,22 0,22 L0,14 C15.43945,14 28,26.56055 28,42 L28,42 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
